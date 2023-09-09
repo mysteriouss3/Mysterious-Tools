@@ -1,0 +1,6 @@
+E:\Cloud Center\Github-Projeler\Mysterious-Tools\MysteriousTools\bin\Debug\MysteriousTools.dll
+E:\Cloud Center\Github-Projeler\Mysterious-Tools\MysteriousTools\bin\Debug\MysteriousTools.pdb
+E:\Cloud Center\Github-Projeler\Mysterious-Tools\MysteriousTools\obj\Debug\MysteriousTools.csproj.CoreCompileInputs.cache
+E:\Cloud Center\Github-Projeler\Mysterious-Tools\MysteriousTools\obj\Debug\MysteriousTools.dll
+E:\Cloud Center\Github-Projeler\Mysterious-Tools\MysteriousTools\obj\Debug\MysteriousTools.pdb
+E:\Cloud Center\Github-Projeler\Mysterious-Tools\MysteriousTools\obj\Debug\MysteriousTools.csproj.AssemblyReference.cache
